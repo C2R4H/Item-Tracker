@@ -1,0 +1,36 @@
+Id:1
+ 1.Lowest_Price:1.42
+ 2.Median_Price:1.40
+ 3.Quantity:37,350
+Id:2
+ 1.Lowest_Price:5.21
+ 2.Median_Price:5.46
+ 3.Quantity:541
+Id:3
+ 1.Lowest_Price:3.84
+ 2.Median_Price:3.80
+ 3.Quantity:1,635
+Id:4
+ 1.Lowest_Price:0.70
+ 2.Median_Price:0.72
+ 3.Quantity:87
+Id:5
+ 1.Lowest_Price:1.09
+ 2.Median_Price:1.06
+ 3.Quantity:1,517
+Id:6
+ 1.Lowest_Price:0.86
+ 2.Median_Price:0.85
+ 3.Quantity:1,914
+Id:7
+ 1.Lowest_Price:0.88
+ 2.Median_Price:0.84
+ 3.Quantity:69
+Id:8
+ 1.Lowest_Price:0.14
+ 2.Median_Price:0.14
+ 3.Quantity:47,638
+Id:9
+ 1.Lowest_Price:0.59
+ 2.Median_Price:0.59
+ 3.Quantity:1,385

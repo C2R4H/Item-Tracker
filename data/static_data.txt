@@ -1,0 +1,45 @@
+Id:1
+ 1.Currency:1
+ 2.StatTrak:0
+ 3.Name:Shattered Web Case
+ 4.Quality:NONE
+Id:2
+ 1.Currency:1
+ 2.StatTrak:0
+ 3.Name:AWP | Fever Dream 
+ 4.Quality:Field-Tested 
+Id:3
+ 1.Currency:1
+ 2.StatTrak:0
+ 3.Name:AWP | Atheris 
+ 4.Quality:Field-Tested 
+Id:4
+ 1.Currency:1
+ 2.StatTrak:1
+ 3.Name:Glock-18 | Warhawk 
+ 4.Quality:Battle-Scarred 
+Id:5
+ 1.Currency:1
+ 2.StatTrak:0
+ 3.Name:USP-S | Flashback 
+ 4.Quality:Field-Tested 
+Id:6
+ 1.Currency:1
+ 2.StatTrak:0
+ 3.Name:AK-47 | Uncharted 
+ 4.Quality:Minimal Wear 
+Id:7
+ 1.Currency:1
+ 2.StatTrak:1
+ 3.Name:MP9 | Sand Scale 
+ 4.Quality:Factory New 
+Id:8
+ 1.Currency:1
+ 2.StatTrak:0
+ 3.Name:Spectrum Case
+ 4.Quality:NONE
+Id:9
+ 1.Currency:1
+ 2.StatTrak:0
+ 3.Name:Markus Delrow | FBI HRT
+ 4.Quality:NONE

@@ -1,0 +1,9 @@
+1 https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Shattered%20Web%20Case
+2 https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=AWP%20%7C%20Fever%20Dream%20%28Field-Tested%29
+3 https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=AWP%20%7C%20Atheris%20%28Field-Tested%29
+4 https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=StatTrak%E2%84%A2%20Glock-18%20%7C%20Warhawk%20%28Battle-Scarred%29
+5 https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=USP-S%20%7C%20Flashback%20%28Field-Tested%29
+6 https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=AK-47%20%7C%20Uncharted%20%28Minimal%20Wear%29
+7 https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=StatTrak%E2%84%A2%20MP9%20%7C%20Sand%20Scale%20%28Factory%20New%29
+8 https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Spectrum%20Case
+9 https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Markus%20Delrow%20%7C%20FBI%20HRT
