@@ -17,6 +17,7 @@ class item{
     
     string ReturnName(){return name;}
     string ReturnQuality(){return quality;}
+    string ReturnCurrency();
     bool ReturnStatTrak(){return stattrak;}
     double ReturnLowestPrice(){return lowest_price;}
     double ReturnMedianPrice(){return median_price;}

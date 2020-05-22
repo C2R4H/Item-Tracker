@@ -55,12 +55,29 @@ void database::ChangeCurrency(int currency){
     write<<id<<" "<<hash<<endl;
     id++;
   }
-
-
-
-
 }
 
+void database::AddItemByUrl(string url){
+  string json = "https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=";
+  string last_half;
+
+  string word_temp;
+  bool pass = false;
+  for(int i = 0;i<url.size();i++){
+    if(isdigit(url[i]) && url[i+1]=='/' && url[i]=='0'){
+      pass = true;
+      i+=2;
+    }
+    if(pass==true)
+      word_temp.push_back(url[i]);
+  }
+  json.append(word_temp);
+  
+  ofstream write;
+  write.open("./data/hash_data.txt",ios_base::app);
+  write<<json<<endl;
+  write.close();
+}
 
 
 

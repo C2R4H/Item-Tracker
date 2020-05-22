@@ -3,13 +3,15 @@
 ID = 1++
 
 WHAT YOU NEED TO DO:
- 1.A something to change the currency +
- 2.A user friendly interface and a console one
-   1.Learn python
- 3.To add a url and then the url to be transformed into a hash
- 4.Support for cases/keys/agents +
- 5.To make a big hash base to chose from
- 6.To show the currency icon somewhere
+ 1.A user friendly interface and a console one
+ 2.To make a big hash base to chose from
+ 3.To refresh chosen items
+
+DONE:
+ 1.To show the currency icon somewhere +
+ 2.Support for cases/keys/agents +
+ 3.A something to change the currency +
+ 4.To add a url and then the url to be transformed into a hash +
 
 Items:
   1.Weapon:

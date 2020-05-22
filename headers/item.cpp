@@ -155,6 +155,16 @@ void item::GetItemsDataLive(int id){
 
 
 
+string item::ReturnCurrency(){
+  switch(currency){
+    case 1:
+      return "$";
+    case 2:
+      return "EURO";
+    default:
+      return "0";
+  }
+}
 
 
 

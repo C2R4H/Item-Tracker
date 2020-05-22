@@ -43,3 +43,23 @@ Id:9
  2.StatTrak:0
  3.Name:Markus Delrow | FBI HRT
  4.Quality:NONE
+Id:10
+ 1.Currency:1
+ 2.StatTrak:0
+ 3.Name:AK-47 | Redline 
+ 4.Quality:Field-Tested 
+Id:11
+ 1.Currency:1
+ 2.StatTrak:0
+ 3.Name:AK-47 | Redline 
+ 4.Quality:Field-Tested 
+Id:12
+ 1.Currency:1
+ 2.StatTrak:0
+ 3.Name:AK-47 | Redline 
+ 4.Quality:Field-Tested 
+Id:13
+ 1.Currency:1
+ 2.StatTrak:0
+ 3.Name:AK-47 | Redline 
+ 4.Quality:Field-Tested 
