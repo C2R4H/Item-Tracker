@@ -5,7 +5,6 @@
 using namespace std;
 
 itemtrack::itemtrack(){
-  cout<<"ITEMTRACK_H"<<endl;
 }
 
 

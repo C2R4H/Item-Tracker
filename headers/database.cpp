@@ -5,11 +5,9 @@
 using namespace std;
 
 database::database(){
-  cout<<"DATABASE_H WORKING"<<endl;
 }
 
 void database::RefreshHash(){
-  cout<<"DATABASE REFRESHASH"<<endl;
   ifstream read;
   read.open("./data/hash_data.txt");
   ofstream write;

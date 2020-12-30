@@ -161,6 +161,8 @@ string item::ReturnCurrency(){
       return "$";
     case 2:
       return "EURO";
+    case 5:
+      return "pуб ";
     default:
       return "0";
   }

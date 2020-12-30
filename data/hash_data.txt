@@ -7,4 +7,3 @@ https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_has
 https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=StatTrak%E2%84%A2%20MP9%20%7C%20Sand%20Scale%20%28Factory%20New%29
 https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Spectrum%20Case
 https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Markus%20Delrow%20%7C%20FBI%20HRT
-https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=AK-47%20%7C%20Redline%20%28Field-Tested%29

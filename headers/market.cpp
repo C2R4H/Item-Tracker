@@ -16,7 +16,6 @@ static size_t WriteCallback(void *contents, size_t size,size_t nmemb,void *userp
 }
 
 market::market(){
-  cout<<"WORKING MARKET_H"<<endl;
   vector<int> id_s;
   vector<string> hash_s;
   string hash_read;
