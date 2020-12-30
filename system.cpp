@@ -21,6 +21,7 @@ int ITEM_ID = 1;
 
 
 int main(){
+  //Starting 
   database database;
   database.RefreshHash();
   database.ChangeCurrency(5);
@@ -29,8 +30,10 @@ int main(){
   itemdata.itemdatastart();
   itemtrack itemtrack;
   item item;
+
   system("clear");
-  for(int i = 0;i<database.TotalItems();i++){
+  int stop = database.TotalItems();
+  for(int i = 0;i<stop;i++){
     ITEM_ID = i;
     item.GetItemsData(ITEM_ID);
     item.GetItemsDataLive(ITEM_ID);
@@ -38,4 +41,5 @@ int main(){
     cout<<item.ReturnLowestPrice();
     cout<<item.ReturnCurrency()<<endl;
   }
+
 }
