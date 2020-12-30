@@ -9,6 +9,7 @@ class database{
     void RefreshHash();
     void ChangeCurrency(int);
     void AddItemByUrl(string);
+    int TotalItems();
 };
 
 #endif

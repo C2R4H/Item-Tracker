@@ -77,6 +77,20 @@ void database::AddItemByUrl(string url){
   write.close();
 }
 
+int database::TotalItems(){
+
+  ifstream read;
+  read.open("./data/hash_data.txt");
+  string hash;
+
+  int total_items;
+
+  while(read>>hash)
+    total_items++;
+
+  return total_items;
+}
+
 
 
 

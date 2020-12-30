@@ -30,8 +30,7 @@ int main(){
   itemtrack itemtrack;
   item item;
   system("clear");
-  //MacOS
-  for(int i = 0;i<5;i++){
+  for(int i = 0;i<database.TotalItems();i++){
     ITEM_ID = i;
     item.GetItemsData(ITEM_ID);
     item.GetItemsDataLive(ITEM_ID);
