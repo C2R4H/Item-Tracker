@@ -30,6 +30,7 @@ int main(){
   itemtrack itemtrack;
   item item;
   system("clear");
+  //WINDOWS
   for(int i = 0;i<5;i++){
     ITEM_ID = i;
     item.GetItemsData(ITEM_ID);
